@@ -6,7 +6,6 @@
 
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)](https://python.org)
 [![CatBoost](https://img.shields.io/badge/CatBoost-1.2-yellow)](https://catboost.ai)
-[![License](https://img.shields.io/badge/License-Academic-blue)](LICENSE)
 
 </div>
 
