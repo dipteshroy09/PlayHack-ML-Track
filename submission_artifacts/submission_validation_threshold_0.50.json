@@ -1,0 +1,35 @@
+{
+  "status": "PASS",
+  "output": "submission.csv",
+  "threshold": 0.5,
+  "iterations": {
+    "classifier": 50,
+    "onset": 316,
+    "recovery": 150
+  },
+  "test_rows": 1100,
+  "predicted_positive_rate": 0.24363636363636362,
+  "oof_predicted_positive_rate": 0.19333333333333333,
+  "train_injury_rate": 0.35,
+  "expected_from_oof": {
+    "taskA_f1": 0.6466257668711657,
+    "precision": 0.9086206896551724,
+    "recall": 0.5019047619047619,
+    "onset_skill": 0.0,
+    "recovery_skill": 0.0,
+    "pure_onset_mae": 2.704761904761905,
+    "pure_recovery_mae": 2.942857142857143
+  },
+  "onset_summary": {
+    "min": 1.0,
+    "median": 22.0,
+    "mean": 19.172727272727272,
+    "max": 26.0
+  },
+  "recovery_summary": {
+    "min": 9.0,
+    "median": 10.0,
+    "mean": 11.245454545454546,
+    "max": 15.0
+  }
+}

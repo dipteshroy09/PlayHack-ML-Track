@@ -1,0 +1,23 @@
+LEAKAGE-FREE 5-FOLD OOF REPORT
+======================================================
+OOF athletes                 : 3000
+Task A threshold (from file) : 0.28
+
+Task A F1                    : 0.5261
+Task A precision             : 0.3570
+Task A recall                : 0.9990
+Caught / missed injuries     : 1049 / 1
+False alarms / healthy       : 1889 / 61
+
+Pure onset MAE               : 2.705
+Scored onset MAE             : 2.730
+OOF onset baseline MAE       : 7.616
+Onset skill                  : 0.6416
+
+Pure recovery MAE            : 2.943
+Scored recovery MAE          : 2.970
+OOF recovery baseline MAE    : 3.249
+Recovery skill               : 0.0857
+
+Unofficial equal-weight mean : 0.4178
+(The PDF does not define an official combined weighting.)
